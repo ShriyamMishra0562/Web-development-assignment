@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My first HTML</title>
+</head>
+<body>
+    <h1>NAME - SHRIYAM MISHRA<BR> FATHERS NAME - AJAY MISHRA<BR>MOTHER NAME- PRITI MISHRA</h1>
+    <H2>BRANCH - CSE <BR>SEC-27</H2>
+        <P>SA 5/49 KH RAMREPUR PAHARIYA<br>VARANASI,UTTAR PRADESH<br>PIN CODE-221007<br>INDIA </P>
+</body>
+</html>
